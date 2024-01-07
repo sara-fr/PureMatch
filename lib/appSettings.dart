@@ -14,6 +14,7 @@ final ThemeData themeData = ThemeData(
   primaryColor: Colors.black,
   scaffoldBackgroundColor: const Color(0xFF2C2D30),
 
+  // The most similar font to 'Avenir Next' font which is available for free
   fontFamily: GoogleFonts.montserrat().fontFamily,
   textTheme: const TextTheme(
 
